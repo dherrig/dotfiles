@@ -26,7 +26,7 @@ Use the `dotfiles` alias (created during setup) where `git` would normally be us
 dotfiles status
 dotfiles add ~/.vim/vimrc
 dotfiles commit -m "update vimrc"
-dotfiles push origin master
+dotfiles push origin main
 ```
 
 ## Credits
